@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/figma_react/static/css/main.02cd8a52.css",
-    "main.js": "/figma_react/static/js/main.ba4d8cd2.js",
+    "main.js": "/figma_react/static/js/main.bb478367.js",
     "static/media/9.png": "/figma_react/static/media/9.d5d5e4941774d7576a00.png",
     "static/media/1.png": "/figma_react/static/media/1.3911f6d8121c1c2c9689.png",
     "static/media/3.png": "/figma_react/static/media/3.d5d5759cac03dc7757e6.png",
@@ -10,10 +10,10 @@
     "static/media/4.png": "/figma_react/static/media/4.159a45ba10ec5dca5e97.png",
     "index.html": "/figma_react/index.html",
     "main.02cd8a52.css.map": "/figma_react/static/css/main.02cd8a52.css.map",
-    "main.ba4d8cd2.js.map": "/figma_react/static/js/main.ba4d8cd2.js.map"
+    "main.bb478367.js.map": "/figma_react/static/js/main.bb478367.js.map"
   },
   "entrypoints": [
     "static/css/main.02cd8a52.css",
-    "static/js/main.ba4d8cd2.js"
+    "static/js/main.bb478367.js"
   ]
 }
