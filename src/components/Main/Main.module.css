@@ -1,0 +1,767 @@
+
+ .mainPage {
+    background-color: #f4f9e2;
+    position: absolute;
+width: 1520px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+} 
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.mainPage nav {
+    display: flex;
+    justify-content: space-between;
+}
+.textone{
+    position: absolute;
+    width: 484px;
+    height: 27px;
+    left: 60px;
+    top: 27px;
+    font-family: 'Larsseit';
+    font-size: 24px;
+    line-height: 27px;
+    /* identical to box height */
+    letter-spacing: -0.035em;
+    color: #62D0DF;
+}
+.mainPage nav ul {
+    /* padding: ; */
+    list-style: none;
+    display: flex;
+}
+.mainPage nav ul li {
+
+width: 5px;
+height: 14px;
+margin-left: 80px;
+margin: 20px;
+margin-left: 200px;
+/* top: 0px; */
+font-family: 'Larsseit';
+font-size: 14px;
+/* line-height: 16px; */
+/*  */
+color: #22356F;
+
+
+}
+.buttono{
+    position: absolute;
+width: 150px;
+height: 50px;
+left: 1159px;
+top: 27px;
+
+background: #62D0DF;
+border-radius: 50px;
+
+}
+.picone{
+    position: absolute;
+width: 807.71px;
+height: 544.93px;
+left: 1139.93px;
+top: -170.66px;
+
+background: #EDFDFF;
+border-radius: 312.159px;
+transform: matrix(-0.5, 0.87, 0.87, 0.5, 0, 0);
+
+}
+.texttwo{
+    position: absolute;
+width: 484px;
+height: 64px;
+left: 60px;
+top: 160px;
+
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 27px;
+letter-spacing: -0.035em;
+
+color: #62D0DF;
+
+}
+.textthree{
+    position: absolute;
+width: 484px;
+height: 167px;
+left: 179px;
+top: 220px;
+
+font-family: 'Larsseit';
+font-size: 48px;
+line-height: 53px;
+letter-spacing: -0.035em;
+
+color: #22356F;
+
+}
+.textfour{
+    position: absolute;
+width: 469px;
+height: 161px;
+left: 179px;
+top: 420px;
+
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 42px;
+
+color: #22356F;
+}
+.buttontwo{
+    position: absolute;
+width: 150px;
+height: 50px;
+left: 220px;
+top: 715px;
+
+background: #F9B640;
+}
+.buttonthree{
+    position: absolute;
+width: 150px;
+height: 43px;
+left: 400px;
+top: 718px;
+
+font-family: 'Larsseit';
+font-size: 16px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+
+color: #FAB63E;
+
+}
+.divtwo{
+    position: absolute;
+width: 1437px;
+height: 607px;
+left: 1px;
+top: 800px;
+
+background: #62D0DF;
+}
+.textfife{
+    position: absolute;
+width: 223px;
+height: 51px;
+left: 179px;
+top: 90px;
+font-family: 'Larsseit';
+font-size: 36px;
+line-height: 27px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+
+
+
+}
+.textsix{
+    position: absolute;
+width: 555px;
+height: 235px;
+left: 179px;
+top: 200px;
+
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+
+}
+.mainpic{
+    position: absolute;
+width: 807.71px;
+height: 544.93px;
+left: 745px;
+/* top: 170.66px; */
+/* background: #EDFDFF; */
+/* border-radius: 312.159px; */
+/* transform: matrix(-0.5, 0.87, 0.87, 0.5, 0, 0); */
+
+}
+.mypic{
+    position: absolute;
+width: 525px;
+height: 604px;
+left: 990px;
+
+/*  */
+/* background: url(christopher-campbell-40367.jpg); */
+}
+.divthree{
+    position: absolute;
+width: 1440px;
+height: 361px;
+left: 0px;
+top: 1446px;
+
+background: #FFFFFF;
+}
+.textseven{
+    position: absolute;
+width: 93px;
+height: 210px;
+left: 106px;
+top: 75px;
+
+font-family: 'Larsseit';
+font-size: 16px;
+line-height: 23px;
+letter-spacing: 0.06em;
+
+color: #22356F;
+
+
+}
+.texteght{
+    position: absolute;
+width: 592px;
+height: 210px;
+left: 500px;
+top: 50px;
+text-align: center;
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 34px;
+letter-spacing: 0.005em;
+
+color: #22356F;
+
+}
+.textnine{
+    position: absolute;
+width: 201px;
+height: 21px;
+left: 700px;
+top: 350px;
+
+font-family: 'Larsseit';
+font-size: 16px;
+line-height: 19px;
+/* text-align: center; */
+/* letter-spacing: 0.06em; */
+
+color: rgba(34, 53, 111, 0.5);
+
+}
+.divfour{
+    position: absolute;
+    width: 380px;
+    height: 360px;
+    left: 0px;
+    top: 1927px;
+    
+    background: #e2b2ac
+}
+.texta{
+    position: absolute;
+width: 232px;
+height: 54px;
+left: 78px;
+top: 150px;
+
+font-family: 'Larsseit';
+font-size: 35px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+
+
+}
+.undelain{
+    color: white;
+    top: 130px;
+    position: absolute;
+width: 255px;
+height: 72px;
+left: 52.5px;
+top: 110px;
+}
+.tochkaone{
+    position: absolute;
+width: 9px;
+height: 9px;
+left: 70px;
+top: 145px;
+border-radius: 50%;
+
+background: #c3b416;
+}
+.divfife{
+    position: absolute;
+width: 380px;
+height: 360px;
+left: 380px;
+top: 1927px;
+
+background: #ccdda0;
+}
+.divsix{
+    position: absolute;
+width: 370px;
+height: 360px;
+left: 760px;
+top: 1927px;
+
+background: #62D0DF;
+}
+.divseven{
+    position: absolute;
+width: 390px;
+height: 360px;
+left: 1130px;
+top: 1927px;
+
+background: #0052C1;
+}
+.divonss{
+    position: absolute;
+    width: 500px;
+    height: 480px;
+    left: 0px;
+    top: 2407px;
+    
+    background: #22356F; 
+}
+.divtwos{
+    position: absolute;
+width: 540px;
+height: 480px;
+left: 500px;
+top: 2407px;
+
+background: #0052C1;
+}
+.divthrees{
+    position: absolute;
+    width: 760px;
+    height: 480px;
+    left: 900px;
+    top: 2407px;
+    
+    /* background: url(joanna-kosinska-340748.jpg); */
+}
+.divfours{
+    position: absolute;
+    width: 500px;
+    height: 480px;
+    left: 0px;
+    top: 2887px;
+    
+    background: #62D0DF;
+}
+.divfifes{
+    position: absolute;
+    width: 600px;
+    height: 480px;
+    left: 500px;
+    top: 2887px;
+    
+    background: #979eee;
+}
+.divsixx{position: absolute;
+    width: 480px;
+    height: 480px;
+    left: 1040px;
+    top: 2887px;
+    
+    background: #8F00FF;
+}
+    .textas{
+        position: absolute;
+        width: 157px;
+        height: 72px;
+        left: 120px;
+        top: 170px;
+        
+        font-family: 'Larsseit';
+        font-size: 32px;
+        line-height: 34px;
+        letter-spacing: -0.006em;
+        
+        color: #FFFFFF;
+        
+    
+}
+.undelains{
+
+position: absolute;
+width: 340px;
+height: 96px;
+left: 70px;
+top: 100px;
+color: white;
+}
+.tochkaones{
+    position: absolute;
+width: 12px;
+height: 12px;
+left: 110px;
+top: 165px;
+border-radius: 50%;
+
+background: #E9B730;
+
+}
+.undelainss{
+    position: absolute;
+    width: 340px;
+    height: 2px;
+    left: 210px;
+    top: 100px;
+    color: white; 
+}
+.tochkaoness{
+
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 265px;
+    top: 165px;
+    border-radius: 50%;
+    background: #E9B730;
+}
+.textass{
+    position: absolute;
+width: 157px;
+height: 72px;
+left: 275px;
+top: 170px;
+
+font-family: 'Larsseit';
+font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+
+}
+/* .elida{ */
+    /* position: absolute; */
+    /* left: 0%; */
+    /* right: 0%; */
+    /* top: 0%; */
+    /* bottom: 0%; */
+/*      */
+    /* background: #FFFFFF; */
+/*     */
+/* } */
+/* .qwe{ */
+/*      */
+/* position: absolute; */
+/* left: 0%; */
+/* right: 0%; */
+/* top: 0%; */
+/* bottom: 0%; */
+/*  */
+/* background: #FFFFFF; */
+/* } */
+/* .qwer{ */
+    /* position: absolute; */
+/* left: 0%;  */
+ /* right: 0%;  */
+ /* top: 0%;  */
+/* bottom: 0%; */
+/*  */
+/* background: #FFFFFF; */
+/* }  */
+/*  */
+
+.divabs{
+    position: absolute;
+width: 1440px;
+height: 800px;
+left: -480px;
+top: 3909px;
+
+background: #FFFFFF;
+}
+.divabsd{
+    position: absolute;
+width: 217px;
+height: 20px;
+left: 1050px;
+top: 150px;
+font-family: 'Larsseit';
+font-size: 15px;
+line-height: 30px;
+letter-spacing: 0.06em;
+
+color: #22356F;
+
+}
+.divabss{
+    position: absolute;
+width: 676px;
+height: 215px;
+left: 1050px;
+top: 300px;
+
+font-family: 'Larsseit';
+font-size: 36px;
+line-height: 53px;
+letter-spacing: -0.01em;
+
+color: #22356F;
+
+}
+.divabb{
+    position: absolute;
+    width: 518px;
+    height: 43px;
+    left: 1050px;
+    top: 700px;
+    
+    font-family: 'Larsseit';
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    
+    color: #FAB63E;
+    
+    
+}
+.textabsdf{
+    color: #6CD3E1;
+}
+.divtvelw{
+    position: absolute;
+width: 1440px;
+height: 800px;
+left: 0px;
+top: 4709px;
+
+background: #22356F;
+}
+.divtwentyone{
+    position: absolute;
+width: 480px;
+height: 800px;
+left: 1038px;
+top: 4709px;
+
+}
+.divtheteen{
+    position: absolute;
+width: 108px;
+height: 14px;
+left: 180px;
+top: 120px;
+
+font-family: 'Larsseit';
+font-size: 10px;
+line-height:px;
+letter-spacing: 0.06em;
+
+color: #FFFFFF;
+
+}
+.divfourteen{
+    position: absolute;
+    width: 579px;
+    height: 253px;
+    left: 50px;
+    top: 200px;
+    
+    font-family: 'Larsseit';
+    font-size: 40px;
+    line-height: 53px;
+    letter-spacing: -0.005em;
+    
+    color: #FFFFFF;
+    
+}
+.divfifeteen{
+    position: absolute;
+width: 579px;
+height: 253px;
+left: 180px;
+top: 400px;
+
+font-family: 'Larsseit';
+font-size: 36px;
+line-height: 53px;
+letter-spacing: -0.005em;
+
+color: #FFFFFF;
+
+
+}
+.divsixteen{
+    position: absolute;
+width: 518px;
+height: 43px;
+left: 190px;
+top: 700px;
+
+font-family: 'Larsseit';
+font-size: 16px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+
+color: #62D0DF;
+
+}
+.myfotothree{
+    position: absolute;
+width: 570px;
+height: 380px;
+left: 0px;
+top: 5509px;
+
+}
+.seventeen{
+    position: absolute;
+width: 240px;
+height: 48px;
+left: 620px;
+top: 5630px;
+
+font-family: 'Larsseit';
+font-size: 14px;
+line-height: 11px;
+letter-spacing: -0.006em;
+
+color: #22356F;
+
+
+}
+.eighteen{
+    position: absolute;
+width: 207px;
+height: 115px;
+left: 638px;
+top: 5690px;
+
+font-family: 'Larsseit';
+font-size: 14px;
+line-height: 23px;
+letter-spacing: -0.006em;
+
+color: rgba(34, 53, 111, 0.5);
+
+
+}
+.nineteen{
+    position: absolute;
+    width: 240px;
+    height: 48px;
+    left: 940px;
+    top: 5635px;
+    
+    font-family: 'Larsseit';
+    font-size: 14px;
+    line-height: 11px;
+    letter-spacing: -0.006em;
+    
+    color: #22356F;
+     
+}
+.fourty{
+    position: absolute;
+width: 240px;
+height: 115px;
+left: 940px;
+top: 5690px;
+
+font-family: 'Larsseit';
+font-size: 14px;
+line-height: 23px;
+letter-spacing: -0.006em;
+
+color: rgba(34, 53, 111, 0.5);
+
+
+}
+.fifety{
+    position: absolute;
+width: 240px;
+height: 48px;
+left: 1240px;
+top: 5635px;
+
+font-family: 'Larsseit';
+font-size: 14px;
+line-height: 11px;
+letter-spacing: -0.006em;
+
+color: #22356F;
+
+
+}
+.sixty{
+    position: absolute;
+width: 240px;
+height: 115px;
+left: 1240px;
+top: 5690px;
+
+font-family: 'Larsseit';
+font-size: 14px;
+line-height: 23px;
+letter-spacing: 0.01em;
+
+color: rgba(34, 53, 111, 0.5);
+
+
+}
+.divseventy{
+    position: absolute;
+width: 1523px;
+height: 80px;
+left: 0px;
+top: 5889px;
+
+background: #62D0DF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+}
+.diveghtyyy{
+    position: absolute;
+width: 9px;
+height: 12px;
+left: 250px;
+top: 30px;
+
+font-family: 'Larsseit';
+font-size: 14px;
+line-height: 11px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+
+}
+.divninetyy{
+    position: absolute;
+width: 351px;
+height: 22px;
+left: 194px;
+top: 6px;
+
+
+/* font-size: 14px; */
+/* line-height: 11px; */
+letter-spacing: -0.006em;
+/*  */
+color: #FFFFFF;
+
+}
